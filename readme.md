@@ -82,6 +82,7 @@ GitHub entries were re-checked against the live GitHub API on 2026-11-11, and ev
 - [CUFinder MCP](https://apidoc.cufinder.io/mcp/introduction) - **Official.** Fills in missing company and people data on lead lists for sales teams.
 - [Data Legion MCP](https://www.datalegion.ai/docs/integrations/mcp-server) - **Official.** People and company data sold per call, payable by agents with stablecoins.
 - [Databox MCP](https://developers.databox.com/docs/mcp/overview) - **Official.** Marketers pull KPIs from over 130 apps into live dashboards, then quiz an AI analyst.
+- [Datacircle MCP](https://datacircle.dev/docs/mcp) - **Official**, hosted at `api.datacircle.dev/mcp`, no key. Its tools `list_apis` and `search_plans` list the GTM data APIs and find their plans by API, provider or price, each plan scored as on the benchmark at https://datacircle.dev.
 - [Decodo MCP](https://help.decodo.com/docs/mcp) - **Official.** Residential, mobile, and datacenter proxies, along with scraping tools that get past CAPTCHAs, for data teams.
 - [Dreamdata MCP](https://developer.dreamdata.io/mcp/mcp-server/) - **Official.** Maps each B2B buyer's journey across channels and links every touch to revenue.
 - [Dun & Bradstreet MCP](https://www.dnb.com/en-us/solutions/artificial-intelligence/connectors/dnb-mcp.html) - **Official.** Business credit and company records tied to its DUNS ID, for sales and risk teams. Acquired.
